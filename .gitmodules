@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/dummy-r-packages/dummy-r-packages.r-universe.dev
 	branch = HEAD
+[submodule "minimal"]
+	path = minimal
+	url = https://github.com/dummy-r-packages/minimal
