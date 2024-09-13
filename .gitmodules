@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/dummy-r-packages/dummy-r-packages.r-universe.dev
 	branch = HEAD
+[submodule "license-testing"]
+	path = license-testing
+	url = https://github.com/dummy-r-packages/license-testing
 [submodule "minimal"]
 	path = minimal
 	url = https://github.com/dummy-r-packages/minimal
