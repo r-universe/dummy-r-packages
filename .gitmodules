@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "license-testing"]
 	path = license-testing
-	url = https://github.com/dummy-r-packages/license-testing
+	url = https://github.com/litmusverse/license-testing
 [submodule "minimal"]
 	path = minimal
-	url = https://github.com/dummy-r-packages/minimal
+	url = https://github.com/litmusverse/minimal
